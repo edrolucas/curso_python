@@ -1,3 +1,8 @@
+#Basicamente um estudo sobre tipos de valores e variaveis
+#Aprendendo a declarar uma variavel em python
+
+
+
 valor_compras = float(input('Digite o valor total das compras:'))
 desconto = float(input('Digite o valor do desconto:'))
 quantidade_itens = int(input('Digite a quantidade de itens que foram comprados:'))
